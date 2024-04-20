@@ -1,0 +1,19 @@
+.pink {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu, Sans, sans-serif;
+}
+
+#blue-header {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-header {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cooler {
+    font-size: 24px;
+}
